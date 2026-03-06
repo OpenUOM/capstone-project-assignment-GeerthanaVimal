@@ -22,4 +22,4 @@ describe('TeacherTableComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-}); 
+});
